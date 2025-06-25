@@ -1,0 +1,36 @@
+🔐 CrackSuite - Password Cracking Report
+========================================
+
+Hash: 34819d7beeabb9260a5c854bc85b3e44
+Status: [31m❌ Not Found[0m
+
+Hash: 91dfd9ddb4198affc5c194cd8ce6d338fde470e2
+Status: [31m❌ Not Found[0m
+
+Hash: 89e01536ac207279409d4de1e5253e01f4a1769e696db0d6062ca9b8f56767c8
+Status: [31m❌ Not Found[0m
+
+Hash: 34819d7beeabb9260a5c854bc85b3e44
+Status: [31m❌ Not Found[0m
+
+Hash: 91dfd9ddb4198affc5c194cd8ce6d338fde470e2
+Status: [31m❌ Not Found[0m
+
+Hash: 89e01536ac207279409d4de1e5253e01f4a1769e696db0d6062ca9b8f56767c8
+Status: [31m❌ Not Found[0m
+
+Hash: 34819d7beeabb9260a5c854bc85b3e44
+Status: [31m❌ Not Found[0m
+
+Hash: 91dfd9ddb4198affc5c194cd8ce6d338fde470e2
+Status: [31m❌ Not Found[0m
+
+Hash: 89e01536ac207279409d4de1e5253e01f4a1769e696db0d6062ca9b8f56767c8
+Status: [31m❌ Not Found[0m
+
+Hash: 5f4dcc3b5aa765d61d8327deb882cf99
+Status: [32m✅ Cracked: password[0m
+
+Hash: d8578edf8458ce06fbc5bb76a58c5ca4
+Status: [32m✅ Cracked: qwerty[0m
+
