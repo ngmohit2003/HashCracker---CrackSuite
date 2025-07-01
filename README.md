@@ -12,9 +12,9 @@ CrackSuite is a Python-based, modular password auditing and cracking tool for cy
 | 🧠 Dictionary-Based Cracking     | Uses wordlists like `rockyou.txt` to find matching passwords                |
 | 📊 Password Strength Analysis    | Generates average length, longest, and weakest cracked passwords            |
 | 📄 Auto Report Generation        | Saves results in organized `.txt` reports                                   |
-| 🌈 Colorized CLI Output          | Green/Red display for cracked or not-found hashes                          |
+| 🌈 Colorized CLI Output          | Green/Red display for cracked or not-found hashes                           |
 | 🌐 Web GUI (Flask)               | Clean and fast interface for testing hashes via a browser                   |
-| 🔌 Modular Code Design           | Easy to extend with your own crackers or hash analyzers                    |
+| 🔌 Modular Code Design           | Easy to extend with your own crackers or hash analyzers                     |
 
 ---
 
@@ -22,6 +22,9 @@ CrackSuite is a Python-based, modular password auditing and cracking tool for cy
 
 ### 🖥️ Terminal Interface
 ![CLI Output](https://fakeimg.pl/600x180/282c34/61dafb/?text=CrackSuite+CLI&font=lobster)
+
+
+[ WE STILL HAVE TO DO SOME WORK ON THE WEB GUI  DESIGN OF THE PROJECT WHEN TESTED ON THE KALI FIREFOX BROWSER. ]
 
 ### 🌐 Web GUI
 ![Web GUI](https://fakeimg.pl/600x180/282c34/fbfbfb/?text=Flask+Web+Interface&font=lobster)
